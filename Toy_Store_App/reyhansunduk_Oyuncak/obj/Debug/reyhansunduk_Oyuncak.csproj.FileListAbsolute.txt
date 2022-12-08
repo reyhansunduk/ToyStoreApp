@@ -1,0 +1,11 @@
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\bin\Debug\reyhansunduk_Oyuncak.exe.config
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\bin\Debug\reyhansunduk_Oyuncak.exe
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\bin\Debug\reyhansunduk_Oyuncak.pdb
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.csproj.AssemblyReference.cache
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.Form1.resources
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.Properties.Resources.resources
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.csproj.GenerateResource.cache
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.exe
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.pdb
+C:\Users\reyha\Desktop\ERP\Proje_Ödevi\reyhansunduk_Oyuncak\reyhansunduk_Oyuncak\obj\Debug\reyhansunduk_Oyuncak.kaydetme.resources
